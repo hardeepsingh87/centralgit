@@ -1,0 +1,30 @@
+[33mcommit 17265cc088a2a3f27f1c216543ed55dfafce729a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a7ef685 dfc4788
+Author: harry <harry@gmail.com>
+Date:   Sun Apr 18 17:39:02 2021 +0000
+
+    Merge branch 'branch1'
+
+[33mcommit a7ef68532cc397cd75ad75914fac02ecce331d01[m
+Author: harry <harry@gmail.com>
+Date:   Sun Apr 18 17:38:09 2021 +0000
+
+    Another one from master
+
+[33mcommit dfc47887d743a7ad9fb4c1e3156190beca48b85a[m
+Author: harry <harry@gmail.com>
+Date:   Sun Apr 18 17:34:40 2021 +0000
+
+    First commit from branch1
+
+[33mcommit 5ba9d5339d05aeba65a389c69793dc6e8be74354[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: harry <harry@gmail.com>
+Date:   Sun Apr 18 17:12:57 2021 +0000
+
+    Another commit
+
+[33mcommit 603e34ed6c4c7ee7e389e9f9bc8aaf51cec8460a[m
+Author: harry <harry@gmail.com>
+Date:   Sun Apr 18 16:54:20 2021 +0000
+
+    my first commit
